@@ -5,7 +5,8 @@ To study and implement Operators in C++
 
 ## Theory:
 
- Arithmetic Operators
+ ### Arithmetic Operators:
+ 
 | Operator | Description                                                                                                                                 | Example |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 | `+`      | Adds two operands                                                                                                                           | `A + B` will give `30` |
@@ -14,7 +15,7 @@ To study and implement Operators in C++
 | `/`      | Divides numerator by denominator                                                                                                            | `B / A` will give `2`  |
 | `%`      | Modulus operator and returns remainder after division                                                                                       | `B % A` will give `0`  |
 
-## Relational Operators
+### Relational Operators:
 
 | Operator | Description                                                                                      | Example              |
 |----------|------------------------------------------------------------------------------------------------|----------------------|
@@ -25,7 +26,7 @@ To study and implement Operators in C++
 | `>=`     | Checks if the value of left operand is greater than or equal to the value of right operand.     | `(A >= B)` is true.  |
 | `<=`     | Checks if the value of left operand is less than or equal to the value of right operand.        | `(A <= B)` is true.  |
 
-## Logical Operators
+### Logical Operators:
 
 | Operator | Description                                                                                                  | Example               |
 |----------|--------------------------------------------------------------------------------------------------------------|-----------------------|
