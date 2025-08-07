@@ -1,5 +1,7 @@
 ## Operators in C++
-Aim: To study and implement Operators in C++
+### Aim:
+
+To study and implement Operators in C++
 
 ## Theory:
 
